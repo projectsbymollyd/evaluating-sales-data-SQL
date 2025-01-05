@@ -29,7 +29,6 @@ First, I  wanted to identify the top 5 products in each category based on total 
 - `product_total_profit` (rounded to two decimal places)  
 - `product_rank`
 
-- 
 
 ### 2️⃣ Task 2 🛠️  
 Then, I estimated the missing values in the `quantity` column by calculating the unit price for products and using it to determine the missing quantities.
